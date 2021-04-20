@@ -34,6 +34,10 @@
 <h3> Setup </h3>
 <ul>
   <li>Flash an SD card with the <a href = "https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit">Raspberry Pi OS</a>. The <i>desktop and recommended software </i>option should cover all the software dependencies
+  <ul>
+    <li> If you already have an OS flashed, then make sure that you have python3 and pip installed</li>
+  </ul>
+  <li>Install the PyAudio library</div> </li>
   <li>Connect the GPIO ports as the schematics above ( GPIO 17 and Ground ) </li>
   <li>Copy the .py file from this repo to the raspberry pi</li>
   <li>Connect a USB/Bluetooth micophone (or headphones that have a microphone) to the raspberry pi</li>
