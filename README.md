@@ -7,13 +7,13 @@
 </p>
 
 <h2>Presentation video and Pictures</h2>
-![raspberry above](https://user-images.githubusercontent.com/45963302/115382040-e01ff580-a1dc-11eb-9fae-7a75ed4ac5c7.jpeg)
-![raspberry side](https://user-images.githubusercontent.com/45963302/115382050-e3b37c80-a1dc-11eb-8b0a-80aad5217c4c.jpeg)
 
+<img src="https://user-images.githubusercontent.com/45963302/115382355-3ee56f00-a1dd-11eb-9321-04b0cc34d424.png" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/45963302/115382360-40169c00-a1dd-11eb-8264-d81c70136ce3.png" width="400" height="500"/>
 
 <h2> Schematics Plan </h2>
 
-![image](https://user-images.githubusercontent.com/45963302/115305379-e5465b80-a16e-11eb-984f-5ca119f8b186.png)
+<img src="https://user-images.githubusercontent.com/45963302/115305379-e5465b80-a16e-11eb-984f-5ca119f8b186.png" width="500" height="550"/>
 
 <h2> Pre-requisites  </h2>
 <ul>
