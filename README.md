@@ -15,9 +15,7 @@
 <a href="https://youtu.be/tSgcpEpW-4c">Song presentation video</a>
 
 <h2> Schematics Plan </h2>
-
-<img src="https://user-images.githubusercontent.com/45963302/115305379-e5465b80-a16e-11eb-984f-5ca119f8b186.png" width="500" height="550"/>
-
+<img src="https://user-images.githubusercontent.com/45963302/115400920-7ad6ff00-a1f2-11eb-801b-ffc68be465a0.png" width="400" height="500"/>
 <h2> Pre-requisites  </h2>
 <ul>
   <li>Raspberry pi 3 or 4</li>
