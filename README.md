@@ -6,10 +6,11 @@
   The LED reacts to sound levels between 10 and 80 decibels
 </p>
 
-<h2>Presentation video and Pictures</h2>
+<h2>Presentation video and pictures</h2>
 
 <img src="https://user-images.githubusercontent.com/45963302/115382355-3ee56f00-a1dd-11eb-9321-04b0cc34d424.png" width="500" height="400"/>
 <img src="https://user-images.githubusercontent.com/45963302/115382360-40169c00-a1dd-11eb-8264-d81c70136ce3.png" width="400" height="500"/>
+<a href="https://youtu.be/u-Xzv-OKetY">White noise presentation video</a>
 
 <h2> Schematics Plan </h2>
 
