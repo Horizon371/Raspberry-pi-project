@@ -2,8 +2,8 @@
 
 <h2>Overview</h2>
 <p>
-  This IoT app captures sounds using a USB/Bluetooth microphone and calculates their decibel level. An LED adjusts its brightness according to the loudness of the sound. 
-  The LED reacts to sound levels between 10 and 80 decibels
+  This IoT app captures sounds using a USB/Bluetooth microphone and computes their decibel level. An LED adjusts its brightness according to the loudness of the sound. 
+  I would imagine that this app would be beneficial to a person that suffers from severe hearing loss. The LED igonres any sound below 10 decibels and reaches peak brightness at 80 decibels. A higher decibel threshold can be set and demonstrated, but my neighbours wouldn`t support this.
 </p>
 
 <h2>Pictures and presentation videos</h2>
@@ -23,9 +23,9 @@
   <li>The following individual components:
     <ul>  
       <li>1 resistor</li>
+      <li>1 LED</li>
       <li>2 male to female jumper wires</li>
       <li>1 breadboard</li>
-      <li>1 LED</li>
     </ul>
   </li>
 </ul>
