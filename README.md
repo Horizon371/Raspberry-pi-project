@@ -41,7 +41,7 @@
   <li>Connect the GPIO ports as the schematics above ( GPIO 17 and Ground ) </li>
   <li>Copy the .py file from this repo to the raspberry pi</li>
   <li>Connect a USB/Bluetooth micophone (or headphones that have a microphone) to the raspberry pi</li>
-  <li>Make sure that the the device`s audio input comes from our microphone</li>
+  <li>Make sure that the the device`s audio input comes from the microphone</li>
 </ul>
 <h3> Run </h3>
 <ul>
