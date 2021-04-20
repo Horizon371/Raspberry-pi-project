@@ -30,5 +30,20 @@
   </li>
 </ul>
 
-<h2> Setup and Build Plan  </h2>
+<h2> Setup and Run  </h2>
+<h3> Setup </h3>
+<ul>
+  <li>Flash an SD card with the <a href = "https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit">Raspberry Pi OS</a>. The <i>desktop and recommended software </i>option should cover all the software dependencies
+  <li>Connect the GPIO ports as the schematics above ( GPIO 17 and Ground ) </li>
+  <li>Copy the .py file from this repo to the raspberry pi</li>
+  <li>Connect a USB/Bluetooth micophone (or headphones that have a microphone) to the raspberry pi</li>
+  <li>Make sure that the the device`s audio input comes from our microphone</li>
+</ul>
+<h3> Run </h3>
+<ul>
+  <li>Run the application either from an IDE or from the command line</li>
+  <li>Select the number of seconds for which you want it to run</li>
+</ul>
+
+
 
