@@ -6,6 +6,11 @@
   The LED reacts to sound levels between 10 and 80 decibels
 </p>
 
+<h2>Presentation video and Pictures</h2>
+![raspberry above](https://user-images.githubusercontent.com/45963302/115382040-e01ff580-a1dc-11eb-9fae-7a75ed4ac5c7.jpeg)
+![raspberry side](https://user-images.githubusercontent.com/45963302/115382050-e3b37c80-a1dc-11eb-8b0a-80aad5217c4c.jpeg)
+
+
 <h2> Schematics Plan </h2>
 
 ![image](https://user-images.githubusercontent.com/45963302/115305379-e5465b80-a16e-11eb-984f-5ca119f8b186.png)
