@@ -42,7 +42,7 @@
 <h3> Run </h3>
 <ul>
   <li>Run the application either from an IDE or from the command line</li>
-  <li>Select the number of seconds for which you want it to run</li>
+  <li>Enter the number of seconds for which you want it to run</li>
 </ul>
 
 
