@@ -37,7 +37,7 @@
   <ul>
     <li> If you already have an OS flashed, then make sure that you have <i>python 3</i> and <i>pip</i> installed</li>
   </ul>
-  <li>Install the PyAudio library (run `pip install PyAudio`)</div> </li>
+  <li>Install the PyAudio library (run ` pip install PyAudio `)</div> </li>
   <li>Connect the GPIO ports as the schematics above ( GPIO 17 and Ground ) </li>
   <li>Copy the .py file from this repo to the raspberry pi</li>
   <li>Connect a USB/Bluetooth micophone (or headphones that have a microphone) to the raspberry pi</li>
